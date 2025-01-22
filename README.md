@@ -10,4 +10,4 @@ Bienvenido a tu primer taller de la asignatura, para completarlo es necesario qu
 
 - Nombre completo: Samuel Guerrero Arcos
 - ID de la Universidad: 323500
-- Usuario de Github: PapoGato Holaaaaa
+- Usuario de Github: PapoGato
